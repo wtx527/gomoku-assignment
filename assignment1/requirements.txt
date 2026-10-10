@@ -1,0 +1,2 @@
+# 游戏与 AI 只使用 Python 标准库。
+# 图形界面使用随官方 CPython 提供的 tkinter，无需额外安装。
